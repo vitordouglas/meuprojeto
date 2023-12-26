@@ -10,9 +10,11 @@
 p {
     font-size: 14px;
     color: pink;
+    background-color: aquamarine;
 }
 
 h2 {
     font-size: 25px;
     background-color: bisque;
+    color: blue;
 }
