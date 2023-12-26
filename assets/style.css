@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(131, 131, 131);
+}
+
+h2 {
+    background-color: blue;
+    color: #fff;
+    padding: 15px;
+}

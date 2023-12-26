@@ -1,0 +1,18 @@
+*{
+    font-size: 13px;
+    margin: 0;
+    padding: 0;
+    list-style: circle;
+    box-sizing: border-box;
+    box-shadow: 3px 3px 90px rgba(255, 0, 0, 0.486);
+}
+
+p {
+    font-size: 14px;
+    color: pink;
+}
+
+h2 {
+    font-size: 25px;
+    background-color: bisque;
+}
